@@ -1,0 +1,10 @@
+{
+  "default_service": "nominatim",
+  "google_api_key": "",
+  "rate_limits": {
+    "nominatim": 1.0,
+    "google": 0.1
+  },
+  "max_batch_size": 1000,
+  "cache_duration": 86400
+}
